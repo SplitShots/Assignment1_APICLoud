@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Asignmnet_1_API_Cloud", "..\..\WebSites\Asignmnet_1_API_Cloud\", "{27E7B0C5-9C1B-4714-8AED-3AF44AA53AF3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60918"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Asignmnet_1_API_Cloud\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60918\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60918"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Asignmnet_1_API_Cloud\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60918\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60918"
+		SlnRelativePath = "..\..\WebSites\Asignmnet_1_API_Cloud\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E7B0C5-9C1B-4714-8AED-3AF44AA53AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E7B0C5-9C1B-4714-8AED-3AF44AA53AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE069AD2-E726-4479-9023-E1B0A75BAA38}
+	EndGlobalSection
+EndGlobal
